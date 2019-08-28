@@ -298,11 +298,11 @@ remote_theme: qwtel/hydejack@v8.5.1
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name:                haogemen
-   links:
-     - https://twitter.com/haogemen
-     - https://github.com/haogemen
+#social:
+   #name:                haogemen
+   #links:
+     #- https://twitter.com/haogemen
+     #- https://github.com/haogemen
 
 
 # Other Plugins
