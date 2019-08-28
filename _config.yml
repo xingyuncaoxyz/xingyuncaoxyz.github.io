@@ -54,7 +54,7 @@ menu:
     url:               /about/
   - title:             文档
     url:               https://hydejack.com/docs/
-   - title:            网站链接
+  - title:             网站链接
     url:               /media_and_press/
   - title:             匿名黑版
     url:               https://heiban.me/taolun/
