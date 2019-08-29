@@ -4,7 +4,7 @@
 layout: page
 
 # 页面标题.
-title: website
+title: 网站收藏
 
 # 写一篇简短的（约150个字符）每篇博文的描述.
 # 此描述用于在搜索引擎，社交媒体等上预览页面.
@@ -15,7 +15,16 @@ description: >
 hide_description: true
 
 # TODO
-#image: /assets/img/blog/hydejack-8.png
+#image: /assets/img/blog/example-content.png
 ---
 
 The "网站收藏".
+
+[维基解密](https://wikileaks.org/)
+[黑客新闻](https://news.ycombinator.com/news)
+[4Chan](https://www.4chan.org/)
+[4Chan2](https://www.4channel.org/)
+
+[匿名黑版](https://heiban.me/)
+
+[PNG JPEG 图片压缩](https://tinypng.com/)
