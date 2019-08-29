@@ -4,22 +4,26 @@
 layout: about
 
 # The title of the page.
-title: About
+title: 关于
 
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  关于haoge.men
 
 # You can show the description on the page by deleting this line:
 hide_description: true
 
 # TODO
-image: /assets/img/blog/hydejack-8.png
+#image: /assets/img/blog/hydejack-8.png
 ---
 
-The "Best Jekyll Theme by a Mile".
+好哥们
+www.Haoge.men
+
+
+2019/08
+
 {:.lead}
 
 
