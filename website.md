@@ -17,9 +17,9 @@ hide_description: true
 # TODO
 #image: /assets/img/blog/example-content.png
 ---
-## VPS主机
+## VPS服务器
  
-[推荐你使用阿里云香港24元/月轻量应用服务器](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
+[阿里云香港24元/月轻量](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
 
 [36元注册6位数10年xyz](https://www.name.com/zh-cn/referral/37d227)
 
