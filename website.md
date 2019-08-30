@@ -60,6 +60,10 @@ hide_description: true
 
 [全球PING](https://ping.openadmintools.com/)
 
+## 安全
+
+[安全导航](https://coco413.com/navi.html)
+
 ## 工具
 
 [在线图片压缩](https://tinypng.com/)
