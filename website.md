@@ -4,7 +4,7 @@
 layout: page
 
 # 页面标题.
-title: 网站收藏
+title: 网站入口
 
 # 写一篇简短的（约150个字符）每篇博文的描述.
 # 此描述用于在搜索引擎，社交媒体等上预览页面.
@@ -20,10 +20,22 @@ hide_description: true
 
 
 [维基解密](https://wikileaks.org/)
+
 [黑客新闻](https://news.ycombinator.com/news)
 
+[海盗湾](http://thepiratebay.ee/)
+
+##匿名自由发贴##
 [4Chan](https://www.4chan.org/) 
+
 [4Chan2](https://www.4channel.org/)
+
 [匿名黑版](https://heiban.me/)
+
+##域名
+[域名导航](https://www.domain265.com/)
+
+[域名价格](https://www.domcomp.com/)
+
 
 [在线图片压缩](https://tinypng.com/)
