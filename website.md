@@ -35,7 +35,8 @@ hide_description: true
 
 [海盗党Piratpartiet](https://piratpartiet.se/) 
 slutasnoka.nu pirateshop.eu blipirat.nu ungpirat.se
-[海盗TV](http://pirat.tv)
+
+[海盗TV](http://pirat.tv) / 
 [加入海盗党](https://blipirat.nu/) 成立于2006年，是一个为自由开放的互联网而战的政党
 
 ## 匿名自由发贴
