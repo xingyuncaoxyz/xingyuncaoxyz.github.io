@@ -33,11 +33,11 @@ hide_description: true
 
 [海盗湾](http://thepiratebay.ee/) 
 
-[海盗党Piratpartiet](https://piratpartiet.se/) 
+[海盗党](https://piratpartiet.se/) Piratpartiet / 
 slutasnoka.nu pirateshop.eu blipirat.nu ungpirat.se
 
 [海盗TV](http://pirat.tv) / 
-[加入海盗党](https://blipirat.nu/) 成立于2006年，是一个为自由开放的互联网而战的政党
+[加入?](https://blipirat.nu/) 海盗党成立于2006年，是一个为自由开放的互联网而战的政党
 
 ## 匿名自由发贴
 
