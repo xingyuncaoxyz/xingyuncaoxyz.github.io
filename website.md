@@ -18,8 +18,8 @@ hide_description: true
 #image: /assets/img/blog/example-content.png
 ---
 ## VPS主机
-[阿里云新用户最高￥2000红包](https://chuangke.aliyun.com/invite?userCode=1ovvh9tg)  
-[阿里云香港24元/月轻量应用服务器](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
+ 
+[推荐你使用阿里云香港24元/月轻量应用服务器](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
 
 [36元注册6位数10年xyz](https://www.name.com/zh-cn/referral/37d227)
 
