@@ -18,24 +18,43 @@ hide_description: true
 #image: /assets/img/blog/example-content.png
 ---
 
+## 需要梯子
 
 [维基解密](https://wikileaks.org/)
 
 [黑客新闻](https://news.ycombinator.com/news)
 
+## 直接访问
+
 [海盗湾](http://thepiratebay.ee/)
 
-##匿名自由发贴##
+## 匿名自由发贴
+
 [4Chan](https://www.4chan.org/) 
+[4Chan2](https://www.4channel.org/) 四叶草,鸟语
 
-[4Chan2](https://www.4channel.org/)
+[Komica](https://www.komica.org) 台湾版,繁体中文
 
-[匿名黑版](https://heiban.me/)
+[A岛匿名版](https://adnmb2.com/Forum) 必须实名注册，简体中文
 
-##域名
+[匿名黑版](https://heiban.me/) 匿名自由，简体中文
+
+## 域名
+
 [域名导航](https://www.domain265.com/)
 
 [域名价格](https://www.domcomp.com/)
 
+## web
+
+[IPIP查询](https://www.ipip.net/ip.html)
+
+[PING](http://ping.pe/)
+
+[ip138](https://site.ip138.com)
+
+[全球PING](https://ping.openadmintools.com/)
+
+## 工具
 
 [在线图片压缩](https://tinypng.com/)
