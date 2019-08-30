@@ -19,7 +19,7 @@ hide_description: true
 ---
 ## VPS服务器
  
-[阿里云香港24元/月轻量](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
+[阿里云香港24元/月](https://www.aliyun.com/product/swas?spm=5176.12825654.eofdhaal5.32.754f2c4abSOk03&userCode=1ovvh9tg)
 
 [36元注册6位数10年xyz](https://www.name.com/zh-cn/referral/37d227)
 
