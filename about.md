@@ -9,7 +9,7 @@ title: 关于
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  关于haoge.men
+  关于幸运草
 
 # You can show the description on the page by deleting this line:
 hide_description: true
@@ -18,13 +18,13 @@ hide_description: true
 #image: /assets/img/blog/hydejack-8.png
 ---
 
-好哥们
+幸运草
 
-www.Haoge.men
+www.xingyuncao.xyz
 
-我们不卖重庆酸辣粉！
+开花结果
 
-2019/08
+2019/11
 
 {:.lead}
 
