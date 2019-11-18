@@ -29,7 +29,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "www.XingyunCao.xyz"
+  "www.XingYunCao.xyz"
 
 # A list of keywords for your blog
 keywords:              [linux, opensource]
@@ -299,10 +299,10 @@ remote_theme: qwtel/hydejack@v8.5.1
 
 # Used on index and about sites
 #social:
-   #name:                haogemen
+   #name:                xingyuncaoxyz
    #links:
-     #- https://twitter.com/haogemen
-     #- https://github.com/haogemen
+     #- https://twitter.com/xingyuncaoxyz
+     #- https://github.com/xingyuncaoxyz
 
 
 # Other Plugins
