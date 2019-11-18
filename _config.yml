@@ -52,10 +52,12 @@ menu:
     url:               /blog/
   - title:             关于
     url:               /about/
-  - title:             待加
+  - title:             官网
     url:               https://xingyuncao.xyz/
-  - title:             网站链接
-    url:               /website/
+  - title:             自定义
+    url:               https://blog.xingyuncao.xyz/NavigationStartPage/   
+  #- title:             网站链接
+   # url:               /website/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
